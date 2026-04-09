@@ -21,14 +21,12 @@ body{
     font-weight: bold;
 }
 
-#RichBrown2MinVideo{
-    margin-top: 40px;
-    margin-bottom: 40px;
+#RichBrownHomePage{
     display: block;
-    text-align: center;
-    color: #c0dbeb;
-    font-weight: bold;
+    margin: auto;
+    width: 70%;
 }
+
 
 #Question1{
     margin-top: 100px;
