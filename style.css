@@ -35,6 +35,13 @@ body{
     font-weight: bold;
 }
 
+#RichBrown2MinVideo{
+    display: block;
+    text-align: center;
+    color: #c0dbeb;
+    font-weight: bold;
+}
+
 #RichBrownHomePage{
     /*allows the image to be centered in the page*/
     display: block;
