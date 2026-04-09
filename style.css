@@ -1,3 +1,6 @@
+/*Youtube video I used to assist CSS formatting:
+https://www.youtube.com/watch?v=wRNinF7YQqQ
+*/
 body{
     /*styles the website font as Lucida Sans with backup fonts if previous fonts fail to load.*/
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
