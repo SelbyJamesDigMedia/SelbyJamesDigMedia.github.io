@@ -1,14 +1,18 @@
 body{
+    /*styles the website font as Lucida Sans with backup fonts if previous fonts fail to load.*/
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /*makes body text bluish white*/
     color: #c0dbeb;
+    /*creates a background colour gradient on the website*/
     background: linear-gradient(#012340, #0E1826);
+    /*website side margin specifications*/
     margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 200px;
 }
 #Heading1{
+    /*how far the heading lies from the top of the page*/
     margin-top: 70px;
-    color: #c0dbeb; 
     font-family: Arial, Helvetica, sans-serif; 
     text-align: center;
     text-transform: uppercase;
@@ -70,7 +74,7 @@ body{
     margin-bottom: 50px;
 }
 #Question4{
-    margin-top: 80px;
+    margin-top: 0px;
     font-size: large;
     font-weight: bolder;
 }
